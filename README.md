@@ -1,6 +1,18 @@
 # AF Ponto — Sistema de Gestão de Jornada
 
-**Aplicação Web • PWA • Android | Desenvolvimento assistido por IA**
+## 📱 Plataformas disponíveis
+
+O AF Ponto foi desenvolvido para diferentes plataformas:
+
+- **Web:** acesso pelo navegador em computadores e dispositivos móveis.
+- **PWA:** possibilidade de instalação da aplicação web em dispositivos compatíveis.
+- **Android (APK):** versão do aplicativo desenvolvida com Capacitor e Android Studio.
+
+### Acesso à aplicação
+
+🌐 [Acessar o AF Ponto](https://afponto.com.br)
+
+*O APK não está disponibilizado publicamente neste repositório. A distribuição da versão Android é controlada.*
 
 ## Sobre o projeto
 
