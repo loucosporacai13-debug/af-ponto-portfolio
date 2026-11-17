@@ -69,7 +69,7 @@ Durante o desenvolvimento, trabalhei com questões relacionadas a autenticação
 
 Assista à demonstração das funcionalidades administrativas, gestão de equipe, mensagens, relatórios e solicitações de correção.
 
-[▶ Assistir ao vídeo do Painel do Gestor](videos/AF-Ponto-Painel-Gestor1%20%281%29.mp4)
+[▶ Assistir ao vídeo do Painel do Gestor](https://youtu.be/IeXDKdv51hI)
 
 ### Painel do Funcionário
 
