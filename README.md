@@ -63,12 +63,14 @@ Utilizei ferramentas de IA como apoio ao desenvolvimento do produto:
 
 Durante o desenvolvimento, trabalhei com questões relacionadas a autenticação, permissões de acesso, separação de dados entre empresas, experiência mobile e testes funcionais.
 
-## Demonstração
+## 🎬 Demonstrações do AF Ponto
 
-Vídeo demonstrativo em preparação. Será disponibilizado utilizando dados fictícios.
+### Painel do Gestor
 
-## Situação do projeto
+Assista à demonstração das funcionalidades administrativas, gestão de equipe, mensagens, relatórios e solicitações de correção.
 
-Aplicação desenvolvida, com evolução e validações técnicas em andamento.
+[▶ Assistir ao vídeo do Painel do Gestor](videos/AF-Ponto-Painel-Gestor1%20%281%29.mp4)
 
-**Observação:** este repositório apresenta o projeto para fins de portfólio. O código operacional permanece em repositório privado.
+### Painel do Funcionário
+
+Demonstração em preparação.
