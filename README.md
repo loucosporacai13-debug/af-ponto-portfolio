@@ -38,6 +38,16 @@ Conheça a aplicação web do AF Ponto:
 - Painel administrativo e relatórios
 - Estrutura multiempresa com separação de dados
 
+## 💻 Exemplos de código e testes
+
+O portfólio inclui um exemplo didático e independente de validação de jornada de trabalho, desenvolvido em JavaScript.
+
+O exemplo demonstra validação de marcações, identificação de divergências e testes automatizados com dados fictícios.
+
+**[Ver exemplos de código e testes](exemplos-de-codigo/)**
+
+*O código operacional completo do AF Ponto permanece privado.*
+
 ## Tecnologias utilizadas
 
 | Área | Tecnologias |
