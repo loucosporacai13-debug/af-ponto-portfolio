@@ -1,0 +1,32 @@
+
+name: Testes de Jornada - AF Ponto
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'exemplos-de-codigo/**'
+      - '.github/workflows/testes-jornada.yml'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  testar-jornada:
+    name: Validar exemplo de jornada
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter arquivos do repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Executar testes automatizados
+        run: node --test exemplos-de-codigo/consolidacao-jornada.test.js
