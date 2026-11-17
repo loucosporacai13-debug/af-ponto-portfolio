@@ -1,5 +1,7 @@
 # AF Ponto — Sistema de Gestão de Jornada
 
+[![Testes de Jornada](https://github.com/loucosporacai13-debug/af-ponto-portfolio/actions/workflows/testes-jornada.yml/badge.svg)](https://github.com/loucosporacai13-debug/af-ponto-portfolio/actions/workflows/testes-jornada.yml)
+
 ## 📱 Plataformas disponíveis
 
 O AF Ponto foi desenvolvido para diferentes plataformas:
