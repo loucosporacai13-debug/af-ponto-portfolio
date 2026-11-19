@@ -21,6 +21,17 @@ O AF Ponto foi desenvolvido para diferentes plataformas:
 O AF Ponto é uma aplicação para registro e acompanhamento da jornada de trabalho, com funcionalidades destinadas a colaboradores e gestores.
 
 O projeto foi desenvolvido para facilitar processos operacionais, organizar informações e oferecer uma experiência acessível em dispositivos móveis e computadores.
+
+## 🚧 Estado atual do projeto
+
+O AF Ponto é um sistema **funcional**, que continua **recebendo atualizações e melhorias contínuas**.
+
+Ressalvas importantes:
+
+- Algumas funcionalidades ainda estão pendentes ou em desenvolvimento, e novas etapas de validação continuam em andamento.
+- Este material **não afirma** que o sistema possui certificação REP-P nem que está homologado para uso comercial.
+- O portfólio e os exemplos de código **não comprovam conformidade legal**. A adequação à legislação trabalhista e de proteção de dados exige avaliação específica antes de qualquer uso em produção.
+
 ## 🌐 Acesse o AF Ponto
 
 Conheça a aplicação web do AF Ponto:
@@ -28,8 +39,6 @@ Conheça a aplicação web do AF Ponto:
 **[Acessar o AF Ponto](https://afponto.com.br)**
 
 *O acesso às funcionalidades pode exigir autenticação.*
-
-## Funcionalidades principais
 
 ## Funcionalidades principais
 
